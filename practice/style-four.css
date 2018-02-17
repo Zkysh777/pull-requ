@@ -1,0 +1,17 @@
+.empty{
+background-image:linear-gradient(to top right,
+                        transparent, transparent 48%,
+                        black 48%, black 52%,
+                        transparent 52%, transparent);
+}
+td{
+aligh:center;
+}
+table{
+border-collapse:collapse;
+padding:400px 400px;
+position:absolute;
+top:200px;
+left:400px;
+
+}

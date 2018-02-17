@@ -1,0 +1,28 @@
+* { margin: 0; padding: 0; }
+
+img{
+height:auto;
+max-width:100px;
+margin:10px 10px;
+}
+.main{
+display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+.maintwo{
+display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+.mainthree{
+display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    -webkit-align-items: center;
+    align-items: center;
+}

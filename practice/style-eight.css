@@ -1,0 +1,15 @@
+* { margin: 0; padding: 0; }
+img{
+display:inline-block;
+height:auto;
+max-width:100px;
+}
+.main{
+text-align:center;
+}
+.maintwo{
+text-align:center;
+}
+.mainthree{
+text-align:center;
+}

@@ -1,0 +1,12 @@
+* { margin: 0; padding: 0; }
+
+.imgSize img {
+  height:auto;
+  width:45%;
+}
+
+.contents {
+  height:500px;
+  text-align:center;
+  float:left;
+}

@@ -1,0 +1,22 @@
+* { margin: 0; padding: 0; }
+img{
+float:left;
+height:auto;
+max-width:100px;
+margin:10px;
+}
+.main{
+width:450px;
+margin:auto;
+height:80px;
+}
+.maintwo{
+width:450px;
+margin:auto;
+height:80px;
+}
+.mainthree{
+width:450px;
+margin:auto;
+height:80px;
+}
